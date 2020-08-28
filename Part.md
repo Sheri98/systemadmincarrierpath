@@ -1,2 +1,2 @@
-[![System Admin](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## System Administration
 - #### Incident Response & Forensics
