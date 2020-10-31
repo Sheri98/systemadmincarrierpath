@@ -26,7 +26,7 @@
     - #### any hardware error displayed on the screen
     - #### starts before the motherboards video card is activated and it si the first thig you will see. 
     - ### BEEP codes:
-      - #### beeps are used before the system video has been intilized; for serious fa tla error ; there are series of beep patterns;
+      - #### beeps are used before the system video has been intilized; for serious fatla error ; there are series of beep patterns;
       - Long - Memory failure; one long and two short - video card faiure;
      - ### POST errors
      - ### POST CARDS:
@@ -39,10 +39,35 @@
       - ### BIOS changes should be saved to CMOS { complmentary metal-oxide semiconductior } need power to load the setting 
       - ###  UEFI { unified entensible firmware interface ) standard bios 
         - ##### can boot from 2.2tb or larger
-        - ##### secure voot to vheck validity to ensure no malware, dignostics, saved to a flash memory
+        - ##### secure boot to heck validity to ensure no malware, dignostics, saved to a flash memory
       - ### CMOS need constant power to keep your setting;
      
-    - ### BIOS compomnents:
-      - #### it has mant changeable 
+    - ### BIOS components:
+      - #### it has many  changeable
+      - #### The enabling and disabling of key hardware: isb, virtualization, cpu features.
+      - #### heart of you system
+     
+     - # supervisor password important to protect your bios setting
+     - # user password comes when system bootedtype 
+     
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
      
     
