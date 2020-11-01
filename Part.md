@@ -50,7 +50,8 @@
      - # supervisor password important to protect your bios setting
      - # user password comes when system bootedtype 
      
-      
+ ## BOOT SEQUENCE:
+  - ### 
       
       
       
